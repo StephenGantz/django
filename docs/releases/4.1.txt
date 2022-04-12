@@ -63,6 +63,8 @@ Minor features
 
 * Related widget wrappers now have a link to object's change form.
 
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
+
 :mod:`django.contrib.admindocs`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

@@ -54,8 +54,6 @@ Minor features
 
 :mod:`django.contrib.auth`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
-
 * The ``HttpRequest`` is now passed as the first positional argument to
   :meth:`.RemoteUserBackend.configure_user`, if it accepts it.
 
